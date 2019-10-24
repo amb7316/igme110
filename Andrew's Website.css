@@ -1,0 +1,41 @@
+body{
+    margin: 0px;
+    padding: 0px;
+} 
+
+h1, h2{
+    font-family: 'Bitter', serif;
+    font-size: 30px;
+    margin: 20px;
+    padding: 0px;
+}
+
+img{
+    float: right;
+    padding: 15px;
+    padding-bottom: .5em;
+    width:auto;
+    height: 200px;
+}
+
+figure{
+    text-align: right;
+    float: right;
+    font-family: 'Fjalla One', sans-serif;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+
+p{
+    font-family: 'Fjalla One', sans-serif;
+    font-size: 18px;
+    text-indent: 40px;
+    line-height: 30px;
+    margin: 20px;
+    padding: 0px;
+    
+}
